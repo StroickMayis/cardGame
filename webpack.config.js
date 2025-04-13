@@ -35,4 +35,5 @@ module.exports = {
             },
         ],
     },
+    target: 'web',
 };
