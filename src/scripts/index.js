@@ -8,3 +8,7 @@ let mainBoard = createGameBoard();
 mainBoard.help();
 mainBoard.createGrid(6, 8);
 mainBoard.displayGrid()
+
+
+// ! Leaving off here, considering making this a Civilization-like game. Screw the card shit. It just doesn't need to be like that. 
+

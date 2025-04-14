@@ -1,0 +1,38 @@
+{
+    "boards": [
+        {
+            "id": "board1",
+            "name": "Tutorial Board",
+            "gridSize": {
+                "x": 6,
+                "y": 8
+            },
+            "tiles": [
+                {
+                    "type": "emptyTile",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "units": [],
+            "objectives": []
+        },
+        {
+            "id": "board2", 
+            "name": "Level 1",
+            "gridSize": {
+                "x": 8,
+                "y": 8
+            },
+            "tiles": [
+                {
+                    "type": "emptyTile",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "units": [],
+            "objectives": []
+        }
+    ]
+}
